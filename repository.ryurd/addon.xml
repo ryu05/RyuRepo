@@ -1,6 +1,6 @@
 
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.ryurd" name="RyuRD official Repo" version="1.0" provider-name="Ryu05">
+<addon id="RyuRepo" name="RyuRD official Repo" version="1.0" provider-name="Ryu05">
 	<extension point="xbmc.addon.repository" name="Ryu05 official Repo">
 		<info compressed="false">https://raw.githubusercontent.com/Kodi.Ryu/RyuRepo/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/Kodi.Ryu/RyuRepo/master/addons.xml.md5</checksum>
